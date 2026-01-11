@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel AI Trader",
+  "description": "Adaptive autonomous trading system with step-trailing stops and session-based strategy switching.",
+  "requestFramePermissions": []
+}
